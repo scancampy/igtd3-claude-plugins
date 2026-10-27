@@ -1,0 +1,13 @@
+{
+  "name": "igtd-claude-plugins",
+  "owner": {
+    "name": "Magister Informatika - Intelligent Game Technology & Design"
+  },
+  "plugins": [
+    {
+      "name": "igtd-assessment3-kit",
+      "source": "./plugins/igtd-assessment3-kit",
+      "description": "Asisten pembimbing untuk Assessment 3 (Build an Intelligent Game Feature): memilih fitur, baseline non-AI, evaluasi, log AI, etika dan bias, serta laporan teknis."
+    }
+  ]
+}
