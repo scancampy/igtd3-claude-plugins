@@ -1,0 +1,10 @@
+{
+  "name": "igtd-assessment3-kit",
+  "displayName": "IGTD Assessment 3 Kit",
+  "version": "1.1.0",
+  "description": "Asisten pembimbing untuk Assessment 3 mata kuliah Intelligent Game Technology & Design (Build an Intelligent Game Feature): memilih fitur, membangun baseline non-AI, mengevaluasi baseline vs AI, mencatat log AI, memeriksa etika dan bias, serta menyusun laporan teknis.",
+  "author": {
+    "name": "Magister Informatika - Intelligent Game Technology & Design"
+  },
+  "license": "MIT"
+}
